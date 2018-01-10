@@ -1,1 +1,1 @@
-# throwing cube, counter, array
+# throwing cube, for, counter, ArrayList, Math.random
