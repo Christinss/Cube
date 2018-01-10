@@ -1,1 +1,1 @@
-# kocka
+# throwing cube, counter, array
